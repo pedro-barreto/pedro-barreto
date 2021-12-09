@@ -20,6 +20,6 @@
 
 <div>
   
-  ![Snake animation](https://github.com/pedro-barreto/pedro-barreto/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/pedro-barreto/pedro-barreto/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
