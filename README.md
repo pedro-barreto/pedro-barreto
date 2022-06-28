@@ -10,12 +10,6 @@
 </div>
 
 <!--
-
-https://drive.google.com/file/d/1IFgKG76yIPOtpXzwp5jmoumU8Nff4Hvv/view?usp=sharing
-
--->
- 
-<!--
 <div style="display: inline_block"><br>
   
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
