@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=pedro-barreto&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true"/>
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&theme=tokyonight&layout=compact&hide_border=true" />
-  <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-barreto&theme=tokyonight&include_all_commits=true"/>
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=pedro-barreto&show_icons=true&include_all_commits=true&hide_border=true"/>
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&layout=compact&hide_border=true" />
+  <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-barreto&include_all_commits=true"/>
     
 </div>
 
