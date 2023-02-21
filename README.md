@@ -1,10 +1,10 @@
-<h1>Informações básicas sobre meu perfil</h1>
+<h1 align="center">Informações básicas sobre meu perfil</h1>
 
 <div align="center">
   <a href="https://github.com/pedro-barreto">
-    <img src="https://github-readme-stats.vercel.app/api/?username=pedro-barreto&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&layout=compact&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-barreto&include_all_commits=true&theme=tokyonight"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=pedro-barreto&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&layout=compact&hide_border=true&theme=tokyonight" />
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-barreto&include_all_commits=true&theme=tokyonight&border=transparent"/>
   </a>
 </div>
 
