@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/pedro-barreto">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/?username=pedro-barreto&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&layout=compact&hide_border=true&theme=tokyonight" />
+    <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/?username=pedro-barreto&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+    <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-barreto&layout=compact&hide_border=true&theme=tokyonight" />
     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-barreto&include_all_commits=true&theme=tokyonight"/>
   </a>
 </div>
